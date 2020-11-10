@@ -15,3 +15,8 @@ Em junho, o portal dadostransparentes foi criado porque alguns dados referentes 
 
 Usando `rvest`, eu extraí informações referentes aos jumpscares de filmes de terror. Após a extração, uma breve análise exploratória desses dados foi feita. 
 
+### Carteira de mínima variância
+
+[RMarkdown](https://htmlpreview.github.io/?https://github.com/jclmntn/datapractice/blob/master/cartmin/projeto.nb.html)
+
+Nesse relatório, eu mostro como construir uma carteira de mínima variância baseada na teoria moderna de portfólios. Uso pacotes como `quantmod`, `purrr` e `ggplot2`, além de pacotes relacionados à otimização numérica. 
