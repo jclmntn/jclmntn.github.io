@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Portfólio do José Clementino
-description: Essa página contém alguns dos projetos que venho trabalhando nas minhas horas vagas
+title: Your awesome title
+author:
+  name: jclmntn
+  email: jclmntn@gmail.com
+description: 
+    Algumas das minhas aventuras em programação e análise de dados. Todas foram feitas durante minhas horas vagas.
+
+minima:
+  date_format: "%-d %b, %Y"
+  skin: dark
