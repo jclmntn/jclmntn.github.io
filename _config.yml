@@ -1,9 +1,9 @@
-title: Your awesome title
+title: Cofre do José
 author:
-  name: jclmntn
+  name: José Clementino
   email: jclmntn@gmail.com
 description: 
-    Alguns dos meus projetos em programação e análise de dados. Todas foram feitas durante minhas horas vagas.
+    Alguns dos meus projetos em programação e análise de dados. Todos feitos durante minhas horas vagas (ou não).
 
 minima:
   date_format: "%-d %b, %Y"
