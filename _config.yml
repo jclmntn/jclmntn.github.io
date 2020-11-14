@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-skin: dark
+minima:
+  skin: dark
 title: Portfólio do José Clementino
 description: Essa página contém alguns dos projetos que venho trabalhando nas minhas horas vagas
