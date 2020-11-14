@@ -1,3 +1,7 @@
+---
+layout: home
+list_title: "Projetos"
+---
 
 ## Projetos de análise de dados
 
