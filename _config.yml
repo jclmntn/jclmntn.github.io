@@ -1,13 +1,14 @@
 title: Cofre do José
 author:
-  name: "José Clementino"
-  email: "jclmntn@gmail.com"
+  name: José Clementino
 description: 
     Alguns dos meus projetos em programação e análise de dados. Todos feitos durante minhas horas vagas (ou não).
 
 minima:
   date_format: "%-d %b, %Y"
   skin: dark
+
+github_username: jclmntn
   
 header_pages:
   - about.md
