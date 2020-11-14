@@ -3,8 +3,10 @@ author:
   name: jclmntn
   email: jclmntn@gmail.com
 description: 
-    Algumas das minhas aventuras em programação e análise de dados. Todas foram feitas durante minhas horas vagas.
+    Alguns dos meus projetos em programação e análise de dados. Todas foram feitas durante minhas horas vagas.
 
 minima:
   date_format: "%-d %b, %Y"
   skin: dark
+  
+theme: minima
