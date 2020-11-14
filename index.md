@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: "Projetos"
+title: "Projetos"
 ---
 
 ## Projetos de análise de dados
