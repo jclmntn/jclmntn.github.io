@@ -7,8 +7,8 @@ description:
 
 minima:
   social_links:
-    github_username: jclmntn
-    linkedin_username: jclmntn
+    github: jclmntn
+    linkedin: jclmntn
   skin: dark
 
 header_pages:
