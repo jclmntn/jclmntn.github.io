@@ -5,8 +5,11 @@ author:
 description: 
     Alguns dos meus projetos em programação e análise de dados. Todos feitos durante minhas horas vagas (ou não).
 
-github_username: jclmntn
-linkedin_username: jclmntn
+minima:
+  social_links:
+    github_username: jclmntn
+    linkedin_username: jclmntn
+  skin: dark
 
 header_pages:
   - about.md
