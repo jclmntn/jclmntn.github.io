@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
 Olá, seja bem-vindo(a) à minha página. Essa página foi criada com o intuito de compartilhar alguns dos meus relatórios. 
