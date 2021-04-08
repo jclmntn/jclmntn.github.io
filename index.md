@@ -24,3 +24,8 @@ Nesse relatório, eu mostro como construir uma carteira de mínima variância ba
 [Repositório](https://github.com/jclmntn/scrapertransparente)
 
 Em junho, o portal dadostransparentes foi criado porque alguns dados referentes ao COVID-19 foram ocultados por fontes oficiais. Usando `rvest`, `dplyr`, `ggplot2` e `plotly`, eu construí algumas funções que raspavam informação relevante do site e depois fiz algumas visualizações. 
+
+### Máquina de Delfos
+[Repositório](https://github.com/jclmntn/maquinadelfos)
+
+Eu comecei a escrever para um blog de investimento, finanças e política recentemente. O código utilizado para criar visualizações e simulações está disponibilizado no repositório do link.
