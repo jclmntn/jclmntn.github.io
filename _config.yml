@@ -6,8 +6,8 @@ description:
 
 minima:
   social_links:
-    github: jclmntn
-    linkedin: jclmntn
+    - { platform: github, user_url: "https://github.com/jclmntn"}
+    - { platform: github, user_url: "https://linkedin.com/in/jclmntn"}
   skin: dark
 
 header_pages:
