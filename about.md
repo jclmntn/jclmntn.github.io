@@ -4,15 +4,15 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Olá, seja bem-vindo(a) à minha página. 
+Olá, meu nome é José.
 
-Essa página foi criada com o intuito de compartilhar alguns dos meus relatórios. Muito do que fiz aqui ou faço foi com a inteção de me divertir, 
-aprender e criar coisas novas. Espero que você se divirta tanto quanto eu!
+Essa página foi criada com o intuito de compartilhar alguns dos meus pensamentos, aprendizados e código desenvolvido ao longo dos anos. Utilizo a escrita como forma de expressão e diversão e escrevo código na mesma intenção.
 
-Atualmente, moro na capital de São Paulo e sou mestrando do Programa de Economia Aplicada da UFOP. Tive breve experiência com o setor público, onde pude afiar um pouco das minhas habilidades de programação.
+Eu sou Bacharel em Ciências Econômicas e Mestre em Economia Aplicada pela Universidade Federal de Ouro Preto. Ao longo da minha carreira acadêmica, eu acabei me interessando por economia computacional e acabei entrando de cabeça na carreira de tecnologia, mais especificamente em ciência de dados.
 
-Meus hobbies variam entre programar, jogar videojogos, ler e ver filmes. Ultimamente tenho dado mais chance às séries de televisão, tenho visto Six Feet Under e Sopranos. As minhas prediletas, definitivamente, são Seinfeld e Breaking Bad.
+Já trabalhei no setor público, especificamente no Conselho Administrativo da Defesa Econômica. Depois disso, eu passei um tempo trabalhando numa plataforma SaaS para lojistas criarem suas lojas virtuais. Nos últimos tempos, eu trabalhei em empresas do varejo, uma no setor alimentar e a outra no setor de bebidas.
 
+Meus interesses variam bastante, mas tendo a dizer que gosto de ler, de estudar, jogar videojogos e de praticar jiu-jitsu (é intelectualmente estimulante). Também criei um interesse por corrida nos últimos tempos.
 
-José.
-
+Atenciosamente,
+O Clementino.
